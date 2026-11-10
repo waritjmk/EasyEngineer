@@ -1,0 +1,500 @@
+{
+  "site": {
+    "brand": "EasyEngineer",
+    "url": "https://waritjmk.github.io/EasyEngineer",
+    "links": {
+      "youtube": "https://www.youtube.com/@EasyEngineer-th",
+      "tiktok": "https://www.tiktok.com/@easyengineer_",
+      "form": "",
+      "line": "",
+      "email": ""
+    },
+    "showBoard": false
+  },
+  "th": {
+    "meta": {
+      "title": "EasyEngineer — วิศวกรรมในยุค AI เป็นภาษาไทย",
+      "description": "ผลงานของ Warit “Spec” Jirachodmakunta นักศึกษาวิศวะไฟฟ้า มจพ. ผู้สร้างช่อง EasyEngineer — คอร์ส Arduino สำหรับมือใหม่ และรับงานจ้าง"
+    },
+    "ui": {
+      "skip": "ข้ามไปที่เนื้อหา",
+      "navLabel": "เมนูหลัก",
+      "langLabel": "เปลี่ยนภาษา",
+      "sheet": "แผ่นที่",
+      "logoAlt": "โลโก้ EasyEngineer ตัวอักษร EZ บนพื้นพิมพ์เขียว",
+      "todoLink": "ยังไม่ได้ใส่ลิงก์",
+      "newTab": "(เปิดแท็บใหม่)"
+    },
+    "nav": [
+      {
+        "href": "#course",
+        "label": "คอร์ส Arduino"
+      },
+      {
+        "href": "#work",
+        "label": "ผลงาน"
+      },
+      {
+        "href": "#hire",
+        "label": "จ้างงาน"
+      },
+      {
+        "href": "#contact",
+        "label": "ติดต่อ"
+      }
+    ],
+    "hero": {
+      "eyebrow": "EASYENGINEER · REV 02",
+      "title": [
+        "วิศวกรรมยุค AI",
+        "เข้าใจง่าย"
+      ],
+      "cta": "เริ่มโปรเจกต์แรกของคุณ",
+      "cta2": "ดูผลงาน",
+      "pathsLabel": "เลือกทางของคุณ",
+      "paths": [
+        {
+          "tag": "OUT 1",
+          "href": "#course",
+          "title": "คอร์ส Arduino",
+          "desc": "สำหรับมือใหม่ เริ่มจากศูนย์"
+        },
+        {
+          "tag": "OUT 2",
+          "href": "#hire",
+          "title": "จ้างงาน",
+          "desc": "ชิ้นงาน เว็บ หรือคลิปอธิบาย"
+        }
+      ],
+      "strip": [
+        {
+          "icon": "chat",
+          "title": "ภาษาไทยล้วน",
+          "desc": "อธิบายด้วยคำธรรมดา"
+        },
+        {
+          "icon": "chip",
+          "title": "ลงมือทำจริง",
+          "desc": "ต่อวงจรจริง เขียนโค้ดจริง"
+        },
+        {
+          "icon": "power",
+          "title": "เริ่มจากศูนย์ได้",
+          "desc": "ไม่ต้องมีพื้นฐานมาก่อน"
+        },
+        {
+          "icon": "check",
+          "title": "ทำเองทุกชิ้น",
+          "desc": "ผลงานในเว็บนี้ผมทำเองทั้งหมด"
+        }
+      ],
+      "hook": [
+        "AI เขียนโค้ดและออกแบบวงจรได้ในไม่กี่วินาที",
+        "คนที่ไม่ปรับตัว ได้แค่คัดลอกคำตอบที่ตัวเองไม่เข้าใจ",
+        "คนที่เรียนกับเรา เข้าใจจริง และสร้างของได้เอง"
+      ],
+      "moreLabel": "อ่านต่อ",
+      "more": [
+        "เมื่อก่อนการทำโปรเจกต์อิเล็กทรอนิกส์สักชิ้นต้องอ่านเอกสารและลองผิดลองถูกอยู่นาน วันนี้พิมพ์ถาม AI ก็ได้โค้ดและแบบวงจรมาทันที ความรู้จึงไม่ใช่ของหายากอีกต่อไป สิ่งที่หายากคือคนที่รู้ว่าคำตอบนั้นถูกหรือผิด และทำให้มันใช้งานได้จริง",
+        "คนที่ข้ามพื้นฐานไปมักติดอยู่ที่เดิม ได้คำตอบมาแล้วแต่ต่อวงจรแล้วไม่ทำงาน ไม่รู้ว่าผิดตรงไหน และไม่รู้ว่าจะถาม AI ต่ออย่างไร สุดท้ายโปรเจกต์ก็ค้างอยู่แค่นั้น",
+        "คนที่เรียนกับเราจะเริ่มจากการต่อวงจรจริงด้วยมือ เข้าใจว่าไฟฟ้าไหลอย่างไร และโค้ดแต่ละบรรทัดสั่งอะไร เมื่อเข้าใจแล้ว AI จะกลายเป็นผู้ช่วยที่พาคุณไปได้เร็วขึ้น ไม่ใช่สิ่งที่ขาดไม่ได้ คุณจะถามได้ตรงจุด ตรวจคำตอบเป็น แก้ปัญหาเองได้ และต่อยอดเป็นโปรเจกต์ของตัวเอง"
+      ]
+    },
+    "course": {
+      "tag": "COURSE",
+      "title": "คอร์ส Arduino สำหรับมือใหม่",
+      "lead": "สำหรับทุกคนที่อยากเริ่มทำโปรเจกต์อิเล็กทรอนิกส์แต่ไม่รู้จะเริ่มตรงไหน คุณจะได้ต่อวงจรจริง เขียนโค้ดสั้นๆ แล้วเห็นไฟติดด้วยมือตัวเอง ไม่จำกัดอายุ ไม่ต้องมีพื้นฐาน",
+      "points": [
+        "เริ่มจากศูนย์ ใช้คำง่ายๆ ไม่มีศัพท์ยาก",
+        "ทุกครั้งได้ทำของที่ขยับหรือสว่างได้จริง",
+        "จบแล้วต่อยอดเป็นโปรเจกต์ของตัวเองได้"
+      ],
+      "facts": [
+        [
+          "พื้นฐาน",
+          "ไม่ต้องมี เริ่มจากศูนย์ได้"
+        ],
+        [
+          "รูปแบบ",
+          "[TODO: ออนไลน์/ออนไซต์ จำนวนครั้ง]"
+        ],
+        [
+          "ราคา",
+          "[TODO: ราคา]"
+        ]
+      ],
+      "board": {
+        "title": "ลองเล่นดู: กดปุ่มแล้วไฟติด",
+        "hint": "กดปุ่มบนบอร์ดค้างไว้ (หรือกด Space ค้าง) ไฟจะติดตราบที่ยังกดอยู่ เหมือนโค้ดบรรทัดเดียวข้างล่างนี้",
+        "button": "ปุ่ม BTN บนบอร์ด กดค้างเพื่อเปิดไฟ LED",
+        "btnLabel": "ปุ่ม",
+        "ledLabel": "ไฟ LED",
+        "on": "ติด",
+        "off": "ดับ",
+        "explain": "อ่านว่า: “ให้ไฟ LED เป็นไปตามปุ่ม” — กดก็ติด ปล่อยก็ดับ นี่คือบทเรียนแรกของคอร์ส"
+      },
+      "wait": {
+        "title": "ลงชื่อรอคอร์สรอบแรก",
+        "body": "ยังไม่เปิดรับสมัคร ลงชื่อไว้แล้วผมจะแจ้งเมื่อเปิดรอบ ไม่มีค่าใช้จ่ายและไม่ผูกมัด",
+        "privacy": "ขอแค่ช่องทางติดต่อของคุณอย่างเดียว ไม่ขอข้อมูลส่วนตัวอื่น",
+        "form": "ลงชื่อผ่าน Google Form",
+        "line": "ทักทาง LINE",
+        "email": "ส่งอีเมล"
+      }
+    },
+    "work": {
+      "tag": "WORK",
+      "title": "ผลงาน",
+      "lead": "งานที่ผมทำเองทั้งหมด แบ่งเป็น 3 กลุ่ม",
+      "groups": [
+        {
+          "code": "A",
+          "title": "ช่อง EasyEngineer และคลิป",
+          "desc": "คลิปสั้นอธิบายวิศวกรรมเป็นภาษาไทย ถ่ายเอง ตัดเอง ทำกราฟิกเอง",
+          "items": [
+            {
+              "title": "ช่อง YouTube",
+              "desc": "รวมคลิปทั้งหมดของช่อง",
+              "link": "youtube",
+              "cta": "ดูบน YouTube"
+            },
+            {
+              "title": "ช่อง TikTok",
+              "desc": "คลิปสั้นแนวตั้ง",
+              "link": "tiktok",
+              "cta": "ดูบน TikTok"
+            },
+            {
+              "title": "[TODO: ชื่อคลิปเด่น]",
+              "desc": "[TODO: คลิปนี้อธิบายเรื่องอะไร + ลิงก์]"
+            }
+          ]
+        },
+        {
+          "code": "B",
+          "title": "หุ่นยนต์ · ESP32 · Arduino",
+          "desc": "ของที่ต่อวงจรและเขียนโปรแกรมควบคุมเอง",
+          "items": [
+            {
+              "title": "[TODO: ชื่อโปรเจกต์หุ่นยนต์]",
+              "desc": "[TODO: ทำอะไรได้ + รูป/คลิป]"
+            },
+            {
+              "title": "[TODO: ชื่อโปรเจกต์ ESP32]",
+              "desc": "[TODO: ทำอะไรได้ + รูป/คลิป]"
+            },
+            {
+              "title": "[TODO: ชื่อโปรเจกต์ Arduino]",
+              "desc": "[TODO: ทำอะไรได้ + รูป/คลิป]"
+            }
+          ]
+        },
+        {
+          "code": "C",
+          "title": "Roblox · เกม Python · เว็บฟิสิกส์",
+          "desc": "งานซอฟต์แวร์ที่เล่นได้ ลองได้",
+          "items": [
+            {
+              "title": "[TODO: ชื่อเกม Roblox]",
+              "desc": "[TODO: แนวเกม + ลิงก์]"
+            },
+            {
+              "title": "[TODO: ชื่อเกม Python]",
+              "desc": "[TODO: แนวเกม + ลิงก์]"
+            },
+            {
+              "title": "[TODO: ชื่อเว็บฟิสิกส์]",
+              "desc": "[TODO: จำลองเรื่องอะไร + ลิงก์]"
+            }
+          ]
+        }
+      ]
+    },
+    "hire": {
+      "tag": "HIRE",
+      "title": "จ้างงาน",
+      "lead": "บอกสิ่งที่อยากได้เป็นภาษาธรรมดาก็พอ ผมจะช่วยแปลงเป็นงานที่ทำได้จริง พร้อมบอกขอบเขตและเวลาให้ชัดก่อนเริ่ม",
+      "items": [
+        {
+          "title": "ชิ้นงานต้นแบบ",
+          "desc": "วงจรและโปรแกรมด้วย Arduino หรือ ESP32 สำหรับโปรเจกต์ งานโชว์ หรือทดลองไอเดีย",
+          "icon": "chip"
+        },
+        {
+          "title": "เว็บและเกมเล็กๆ",
+          "desc": "เว็บหน้าเดียว เว็บจำลองฟิสิกส์ เกม Python หรือ Roblox",
+          "icon": "web"
+        },
+        {
+          "title": "คลิปอธิบายเรื่องเทคนิค",
+          "desc": "เปลี่ยนเรื่องยากให้เป็นคลิปสั้นที่คนทั่วไปดูเข้าใจ",
+          "icon": "play"
+        }
+      ],
+      "steps": [
+        "เล่าโจทย์",
+        "ผมสรุปขอบเขต ราคา และเวลา",
+        "ลงมือทำและส่งงาน"
+      ],
+      "stepsLabel": "ขั้นตอน",
+      "note": "ราคาเริ่มต้น: [TODO: ราคาหรือช่วงราคา]",
+      "cta": "คุยเรื่องงาน"
+    },
+    "contact": {
+      "tag": "CONTACT",
+      "title": "ติดต่อ",
+      "lead": "ทักมาได้ทุกเรื่อง ทั้งคอร์ส Arduino และงานจ้าง",
+      "photo": "[TODO: รูปสเปก]",
+      "aboutTitle": "เกี่ยวกับผม",
+      "about": "Warit “Spec” Jirachodmakunta นักศึกษาวิศวกรรมไฟฟ้า มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ (มจพ.) ผู้สร้างช่อง EasyEngineer",
+      "line": "LINE",
+      "email": "อีเมล",
+      "youtube": "YouTube",
+      "tiktok": "TikTok"
+    },
+    "footer": "วิศวกรรมในยุค AI เป็นภาษาไทย"
+  },
+  "en": {
+    "meta": {
+      "title": "EasyEngineer — Engineering in the AI era, in Thai",
+      "description": "Portfolio of Warit “Spec” Jirachodmakunta, electrical engineering student at KMUTNB and creator of EasyEngineer — Arduino course for beginners and freelance work."
+    },
+    "ui": {
+      "skip": "Skip to content",
+      "navLabel": "Main menu",
+      "langLabel": "Switch language",
+      "sheet": "Sheet",
+      "logoAlt": "EasyEngineer logo: the letters EZ on a blueprint background",
+      "todoLink": "link not added yet",
+      "newTab": "(opens in a new tab)"
+    },
+    "nav": [
+      {
+        "href": "#course",
+        "label": "Arduino course"
+      },
+      {
+        "href": "#work",
+        "label": "Work"
+      },
+      {
+        "href": "#hire",
+        "label": "Hire me"
+      },
+      {
+        "href": "#contact",
+        "label": "Contact"
+      }
+    ],
+    "hero": {
+      "eyebrow": "EASYENGINEER · REV 02",
+      "title": [
+        "Engineering in the AI era,",
+        "made simple"
+      ],
+      "cta": "Start your first project",
+      "cta2": "See my work",
+      "pathsLabel": "Choose your path",
+      "paths": [
+        {
+          "tag": "OUT 1",
+          "href": "#course",
+          "title": "Arduino course",
+          "desc": "For beginners, from zero"
+        },
+        {
+          "tag": "OUT 2",
+          "href": "#hire",
+          "title": "Hire me",
+          "desc": "A build, a website, or a clip"
+        }
+      ],
+      "strip": [
+        {
+          "icon": "chat",
+          "title": "Taught in Thai",
+          "desc": "Explained in plain words"
+        },
+        {
+          "icon": "chip",
+          "title": "Hands-on",
+          "desc": "Real circuits, real code"
+        },
+        {
+          "icon": "power",
+          "title": "Start from zero",
+          "desc": "No experience needed"
+        },
+        {
+          "icon": "check",
+          "title": "All my own work",
+          "desc": "Everything on this site is made by me"
+        }
+      ],
+      "hook": [
+        "AI can write code and design a circuit in seconds.",
+        "People who don't adapt just copy answers they don't understand.",
+        "People who learn with us understand it, and build it themselves."
+      ],
+      "moreLabel": "Read more",
+      "more": [
+        "Building an electronics project used to mean reading documentation and a long stretch of trial and error. Today you can ask AI and get code and a circuit design right away. Knowledge is no longer the scarce part. What is scarce is someone who can tell whether that answer is right, and make it actually work.",
+        "People who skip the basics tend to get stuck in the same place. They have an answer, but the circuit doesn't work, they can't tell where it went wrong, and they don't know what to ask AI next. The project stops there.",
+        "People who learn with us start by wiring a real circuit by hand, and understand how current flows and what each line of code does. Once you understand that, AI becomes a helper that makes you faster, not something you can't work without. You ask sharper questions, check the answers, fix problems yourself, and grow it into a project of your own."
+      ]
+    },
+    "course": {
+      "tag": "COURSE",
+      "title": "Arduino course for beginners",
+      "lead": "For anyone who wants to start building electronics projects but doesn't know where to begin. You wire a real circuit, write a few lines of code, and see a light turn on by your own hand. Any age, no experience needed.",
+      "points": [
+        "Starts from zero, in plain words",
+        "Every session ends with something that moves or lights up",
+        "Finish ready to build a project of your own"
+      ],
+      "facts": [
+        [
+          "Experience",
+          "None needed. Start from zero"
+        ],
+        [
+          "Format",
+          "[TODO: online/on-site, number of sessions]"
+        ],
+        [
+          "Price",
+          "[TODO: price]"
+        ]
+      ],
+      "board": {
+        "title": "Try it: press the button, the light turns on",
+        "hint": "Press and hold the button on the board (or hold Space). The light stays on for as long as you hold, exactly like the one line of code below.",
+        "button": "BTN button on the board. Press and hold to turn on the LED",
+        "btnLabel": "Button",
+        "ledLabel": "LED",
+        "on": "ON",
+        "off": "OFF",
+        "explain": "It reads: “make the LED follow the button.” Press and it's on, release and it's off. This is lesson one of the course."
+      },
+      "wait": {
+        "title": "Join the waitlist for the first round",
+        "body": "Enrolment is not open yet. Leave your contact and I'll let you know when it opens. Free, no commitment.",
+        "privacy": "I only ask for a way to contact you. No other personal information.",
+        "form": "Sign up via Google Form",
+        "line": "Message on LINE",
+        "email": "Send an email"
+      }
+    },
+    "work": {
+      "tag": "WORK",
+      "title": "Work",
+      "lead": "Everything here is made by me, in three groups.",
+      "groups": [
+        {
+          "code": "A",
+          "title": "EasyEngineer channel and clips",
+          "desc": "Short clips explaining engineering in Thai. Shot, edited, and animated by me.",
+          "items": [
+            {
+              "title": "YouTube channel",
+              "desc": "All clips from the channel",
+              "link": "youtube",
+              "cta": "Watch on YouTube"
+            },
+            {
+              "title": "TikTok channel",
+              "desc": "Short vertical clips",
+              "link": "tiktok",
+              "cta": "Watch on TikTok"
+            },
+            {
+              "title": "[TODO: featured clip title]",
+              "desc": "[TODO: what it explains + link]"
+            }
+          ]
+        },
+        {
+          "code": "B",
+          "title": "Robots · ESP32 · Arduino",
+          "desc": "Things I wired and programmed myself.",
+          "items": [
+            {
+              "title": "[TODO: robot project name]",
+              "desc": "[TODO: what it does + photo/clip]"
+            },
+            {
+              "title": "[TODO: ESP32 project name]",
+              "desc": "[TODO: what it does + photo/clip]"
+            },
+            {
+              "title": "[TODO: Arduino project name]",
+              "desc": "[TODO: what it does + photo/clip]"
+            }
+          ]
+        },
+        {
+          "code": "C",
+          "title": "Roblox · Python games · Physics web apps",
+          "desc": "Software you can play with and try.",
+          "items": [
+            {
+              "title": "[TODO: Roblox game name]",
+              "desc": "[TODO: genre + link]"
+            },
+            {
+              "title": "[TODO: Python game name]",
+              "desc": "[TODO: genre + link]"
+            },
+            {
+              "title": "[TODO: physics web app name]",
+              "desc": "[TODO: what it simulates + link]"
+            }
+          ]
+        }
+      ]
+    },
+    "hire": {
+      "tag": "HIRE",
+      "title": "Hire me",
+      "lead": "Tell me what you want in plain words. I'll turn it into something buildable and give you a clear scope and timeline before starting.",
+      "items": [
+        {
+          "title": "Prototypes",
+          "desc": "Circuits and code with Arduino or ESP32 for projects, demos, or testing an idea.",
+          "icon": "chip"
+        },
+        {
+          "title": "Small websites and games",
+          "desc": "One-page sites, physics simulations, Python or Roblox games.",
+          "icon": "web"
+        },
+        {
+          "title": "Technical explainer clips",
+          "desc": "Turning a hard topic into a short clip anyone can follow.",
+          "icon": "play"
+        }
+      ],
+      "steps": [
+        "Tell me the brief",
+        "I confirm scope, price, and time",
+        "I build and deliver"
+      ],
+      "stepsLabel": "How it works",
+      "note": "Starting price: [TODO: price or range]",
+      "cta": "Talk about a project"
+    },
+    "contact": {
+      "tag": "CONTACT",
+      "title": "Contact",
+      "lead": "Message me about anything: the Arduino course or a project.",
+      "photo": "[TODO: photo of Spec]",
+      "aboutTitle": "About me",
+      "about": "Warit “Spec” Jirachodmakunta, electrical engineering student at King Mongkut's University of Technology North Bangkok (KMUTNB) and creator of the EasyEngineer channel.",
+      "line": "LINE",
+      "email": "Email",
+      "youtube": "YouTube",
+      "tiktok": "TikTok"
+    },
+    "footer": "Engineering in the AI era, in Thai"
+  }
+}

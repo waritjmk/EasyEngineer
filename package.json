@@ -1,0 +1,9 @@
+{
+  "name": "easyengineer-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "serve": "node serve.mjs"
+  }
+}
